@@ -1,0 +1,20 @@
+{
+  "name": "hello-world-package",
+  "version": "1.0.0",
+  "description": "git package repository example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srajagop/hello-world-package.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srajagop/hello-world-package/issues"
+  },
+  "homepage": "https://github.com/srajagop/hello-world-package#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
