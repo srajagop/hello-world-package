@@ -1,5 +1,5 @@
 {
-  "name": "hello-world-package",
+  "name": "@srajagop/hello-world-package",
   "version": "1.0.0",
   "description": "git package repository example",
   "main": "index.js",
